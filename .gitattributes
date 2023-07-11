@@ -1,10 +1,2 @@
-*.c linguist-detectable=true  
-*.csharp linguist-detectable=fasle
-*.java linguist-detectable=false  
-*.js linguist-detectable=false  
-*.html linguist-detectable=false  
-*.xml linguist-detectable=false 
-*.c++ linguist-detectable=false 
-{
-  "C": 78769,
-}
+* linguist-vendored
+*.c linguist-vendored=false
