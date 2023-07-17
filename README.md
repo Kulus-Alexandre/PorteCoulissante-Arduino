@@ -33,7 +33,7 @@ la porte revient à son emplacement d'origine et peut recommencer son cycle.
 
 Photo prise lors des réglages : 
 <a href="https://imgur.com/xNndpl6"><img src="https://i.imgur.com/xNndpl6.jpg" title="source: imgur.com" /></a>
-## Authors
+## Auteur
 
 - [Kulus-Alexandre](https://github.com/Kulus-Alexandre)
 
